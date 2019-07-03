@@ -14,6 +14,6 @@ This project uses following technologies:
 ```
 you can download repo by
 
-git clone https://github.com/amreshk005/Trillio.github.io.git
+git clone https://github.com/amreshk005/Trillio.git
 
 ```
