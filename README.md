@@ -9,7 +9,7 @@ This project uses following technologies:
 3. SCSS
 4. FLEX BOX
 
-<a href="#"></a>
+<a href="https://amreshk005.github.io/Trillio.github.io/"></a>
 
 ```
 you can download repo by
